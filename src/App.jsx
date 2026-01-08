@@ -122,7 +122,7 @@ function App() {
             poster="https://via.placeholder.com/1000x560?text=Loading+Video..."
           >
             <source
-              src="/hero-banner-video2.mp4"
+              src="/hero-banner.mp4"
               type="video/mp4"
             />
             Your browser does not support the video tag.
